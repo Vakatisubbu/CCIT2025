@@ -13,8 +13,7 @@ public class Evenodd {
              {
                  System.out.println("i = " + i);
              }
-             else  System.out.println("i = " + i);
-
+            else  System.out.println("i = " + i);
 
         }
     }
